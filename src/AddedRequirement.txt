@@ -1,0 +1,8 @@
+Our business has been flourishing, we need to include a second day to receive shipments instead of just Saturdays.
+
+The business owner has scheduled deliveries to occur on Saturdays and Wednesdays. As a results, we need to modify our
+program to accommodate this new requirement.
+
+You need to write some tests for the new situations, as well as incorporate the new requirement into your refactored code.
+
+Everything else must remain the same for the program, and the discount days and amounts have not changed.
